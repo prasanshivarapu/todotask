@@ -1,0 +1,278 @@
+/* .main1 {
+    width: 1440px;
+    height: 1024px;
+    margin-top: -375px;
+    margin-left: 1823px;
+    padding: 44px 0px 44.44px 0px;
+    gap: 0px;
+    opacity: 0px;
+    background: #b07289;
+} */
+/* body {
+    max-width: 1440px;
+    height: 1024px;
+    top: -375px;
+    left: 1823px;
+    padding: 44px 0px 44.44px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+    background: #b07289;
+} */
+.mainComponent {
+    /* border: solid;
+    width: 1440px;
+    height: 1024px;
+    top: -375px;
+    left: 1823px;
+    padding: 44px 0px 44.44px 0px;
+    gap: 0px;
+    opacity: 0px; */
+    /* border: solid; */
+    background: #b07289;
+}
+/* .main {
+    width: 421px;
+    height: 935.56px;
+    top: 44px;
+    left: 509px;
+    gap: 0px;
+    border-radius: 23.39px 0px 0px 0px;
+    opacity: 0px;
+    border: solid;
+} */
+.main {
+    width: 421px;
+    height: 935.56px;
+    top: 44px;
+    margin-left: 509px;
+    gap: 0px;
+    border-radius: 23.39px;
+    opacity: 0px;
+    background: #fffffe;
+    box-shadow: 0px 4.68px 4.68px 0px #ffffff;
+}
+.main2 {
+    width: 421px;
+    height: 935.56px;
+    top: 44px;
+    left: 509px;
+    gap: 0px;
+    border-radius: 23.39px 0px 0px 0px;
+    opacity: 0px;
+}
+.mainplus {
+    position: absolute;
+    width: 70.17px;
+    height: 70.17px;
+    top: 806.54px;
+    margin-left: 318.09px;
+    gap: 0px;
+    opacity: 0px;
+
+    /* position: absolute; */
+}
+.plus {
+    width: 70.17px;
+    height: 70.17px;
+    top: 806.54px;
+    left: 318.09px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 50px;
+    background: #e53170;
+}
+.todo {
+    width: 135px;
+    height: 34px;
+    padding-top: 70.17px;
+    left: 23.39px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 28.07px;
+    font-weight: 600;
+    line-height: 33.97px;
+    text-align: left;
+    padding-left: 10px;
+    /* border: solid; */
+}
+.week {
+    width: 95px;
+    height: 23px;
+    top: 146.18px;
+    margin-left: 23.39px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 18.71px;
+    font-weight: 600;
+    line-height: 22.64px;
+    text-align: left;
+}
+.day {
+    width: 163px;
+    height: 20px;
+    top: 196.47px;
+    margin-left: 23.39px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 16.37px;
+    font-weight: 500;
+    line-height: 19.81px;
+    text-align: left;
+    color: #e53170;
+}
+.bo {
+    width: 374.22px;
+    height: 84.2px;
+    top: 230.38px;
+    margin-left: 23.39px;
+    gap: 0px;
+    opacity: 0px;
+    box-shadow: 0px 0px 9.36px 0px #e5e5e5;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+.boinside {
+    width: 122px;
+    height: 23px;
+
+    gap: 0px;
+    opacity: 0px;
+    border: solid;
+    font-family: Inter;
+    font-size: 18.71px;
+    font-weight: 400;
+    line-height: 22.64px;
+    /* text-align: left; */
+}
+.bot {
+    padding: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.bot2 {
+    display: flex;
+    flex-direction: column;
+}
+.bot3 {
+    display: flex;
+}
+.buy {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 10px;
+}
+.buy2 {
+    padding-right: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.d {
+    padding-right: 2px;
+
+    background-color: transparent;
+    border: none;
+    outline: none;
+    border-color: transparent;
+    cursor: pointer;
+}
+.w {
+    padding-right: 2px;
+
+    background-color: transparent;
+    border: none;
+    outline: none;
+    border-color: transparent;
+    cursor: pointer;
+}
+.w:focus {
+    outline: none;
+}
+.d:focus {
+    outline: none;
+}
+
+.desktop {
+    width: 1440px;
+    height: 1024px;
+    top: -375px;
+    left: 1823px;
+    padding: 44px 0px 44.44px 0px;
+    gap: 0px;
+    opacity: 0px;
+    background: #b07289;
+}
+
+.android-large {
+    width: 421px;
+    height: 935.56px;
+    position: absolute;
+    top: 44px;
+    left: 509px;
+    gap: 0px;
+    border-radius: 23.39px 0px 0px 0px;
+    opacity: 1;
+    background: #fffffe;
+    box-shadow: 0px 4.68px 4.68px 0px #ffffff;
+}
+.priori {
+    background: #f8f2f4;
+    width: Hug (59.86px) px;
+    height: Hug (23.02px) px;
+    top: 375.39px;
+    left: 46.78px;
+    padding: 3.51px 5.85px 3.51px 7.02px;
+    gap: 9.36px;
+    border-radius: 4.68px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.main2 {
+    width: 421px;
+    height: 935.56px;
+    top: 44px;
+    margin-left: 509px;
+    gap: 0px;
+    border-radius: 23.39px 0px 0px 0px;
+    opacity: 0px;
+    box-shadow: 0px 4.68px 4.68px 0px #ffffff;
+    background-color: white;
+}
+/* .main3 {
+    width: 135px;
+    height: 34px;
+    top: 70.17px;
+    left: 23.39px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 28.07px;
+    font-weight: 600;
+    line-height: 33.97px;
+    text-align: left;
+} */
+@media screen and (max-width: 756px) {
+    .main {
+        /* margin-left: none; */
+        width: 420px;
+        height: 935.56px;
+        top: 44px;
+        margin-left: 0px;
+        gap: 0px;
+        border-radius: 23.39px;
+        opacity: 0px;
+        background: #fffffe;
+        box-shadow: 0px 4.68px 4.68px 0px #ffffff;
+    }
+}
